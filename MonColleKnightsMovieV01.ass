@@ -36,9 +36,9 @@ Dialogue: 0,0:00:38.54,0:00:39.27,Default,,0,0,0,,Water,
 Dialogue: 0,0:00:42.74,0:00:44.02,Default,,0,0,0,,Earth,
 Dialogue: 0,0:00:45.78,0:00:46.71,Default,,0,0,0,,Light,
 Dialogue: 0,0:00:49.29,0:00:50.78,Default,,0,0,0,,Darkness,
-Dialogue: 0,0:00:50.78,0:00:54.80,Default,,0,0,0,,are what this mysterious world made up of.
+Dialogue: 0,0:00:50.78,0:00:54.80,Default,,0,0,0,,are what this mysterious world is made up of.
 Dialogue: 0,0:00:55.59,0:00:59.36,Default,,0,0,0,,A wondrous world inhabited with various monsters.
-Dialogue: 0,0:01:00.08,0:01:04.54,Default,,0,0,0,,This is a story of adventures of a boy and a girl in this world of monsters,
+Dialogue: 0,0:01:00.08,0:01:04.54,Default,,0,0,0,,This is a story of the adventures of a boy and a girl in this world of monsters,
 Dialogue: 0,0:01:04.54,0:01:09.51,Default,,0,0,0,,a story of love and friendship.
 Dialogue: 0,0:01:09.99,0:01:12.21,Default,,0,0,0,,Just kidding!
 Dialogue: 0,0:01:30.15,0:01:32.82,Default,,0,0,0,,I'm counting on you, partner. Scorching Breath!
@@ -141,7 +141,7 @@ Dialogue: 0,0:06:33.66,0:06:35.86,Default,,0,0,0,,Look! This is Monster Hunter!
 Dialogue: 0,0:06:35.86,0:06:39.63,Default,,0,0,0,,Moreover, we may have found a Mon-Mon Item!
 Dialogue: 0,0:06:39.63,0:06:41.44,Default,,0,0,0,,Mon-Mon Item?
 Dialogue: 0,0:06:41.44,0:06:42.63,Default,,0,0,0,,What's that?
-Dialogue: 0,0:06:44.37,0:06:47.19,Default,,0,0,0,,Fire, Wind, Water, Earth, Light, Darkness —
+Dialogue: 0,0:06:44.37,0:06:47.19,Default,,0,0,0,,Fire, Wind, Water, Earth, Light, Darkness—
 Dialogue: 0,0:06:47.19,0:06:49.83,Default,,0,0,0,,the magical items of these six elements.
 Dialogue: 0,0:06:49.83,0:06:51.60,Default,,0,0,0,,After so many years of research!..
 Dialogue: 0,0:06:52.06,0:06:58.04,Default,,0,0,0,,When you assemble all six Mon-Mon Items, you can connect The World of Six Gates and this world.
@@ -150,7 +150,7 @@ Dialogue: 0,0:06:58.90,0:07:02.90,Default,,0,0,0,,You can bring over here monste
 Dialogue: 0,0:07:02.90,0:07:08.62,Default,,0,0,0,,That's when I'm going to command the army of monsters and conquer the world!
 Dialogue: 0,0:07:09.83,0:07:12.68,Default,,0,0,0,,By connecting our world and The World of Six Gates
 Dialogue: 0,0:07:12.68,0:07:17.41,Default,,0,0,0,,and having cultural exchange all over the world, humanity will definitely advance even further!
-Dialogue: 0,0:07:17.41,0:07:22.84,Default,,0,0,0,,At that point I'm going to be renowned for great contribution to human progress!
+Dialogue: 0,0:07:17.41,0:07:22.84,Default,,0,0,0,,At that point I'm going to be renowned for a great contribution to human progress!
 Dialogue: 0,0:07:24.28,0:07:25.51,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:07:25.51,0:07:28.01,Default,,0,0,0,,To The World of Six Gates!
 Dialogue: 0,0:07:28.01,0:07:29.43,Default,,0,0,0,,Roger!
@@ -293,7 +293,7 @@ Dialogue: 0,0:13:19.90,0:13:23.70,Default,,0,0,0,,You can emotionally connect to
 Dialogue: 0,0:13:23.70,0:13:25.37,Default,,0,0,0,,Eh? Monsters?
 Dialogue: 0,0:13:25.79,0:13:28.53,Default,,0,0,0,,Your medium ability is strong.
 Dialogue: 0,0:13:28.53,0:13:30.96,Default,,0,0,0,,If you work with this boy,
-Dialogue: 0,0:13:30.96,0:13:34.21,Default,,0,0,0,,You'll be able to wield tremendous power.
+Dialogue: 0,0:13:30.96,0:13:34.21,Default,,0,0,0,,you'll be able to wield tremendous power.
 Dialogue: 0,0:13:35.63,0:13:40.13,Default,,0,0,0,,If you're ever in peril, try saying "Adara-kadara-boo".
 Dialogue: 0,0:13:40.13,0:13:42.63,Default,,0,0,0,,"Adara-kadara-boo"?
 Dialogue: 0,0:13:43.01,0:13:47.80,Default,,0,0,0,,These are magic words from very ancient times.
@@ -336,7 +336,7 @@ Dialogue: 0,0:15:14.73,0:15:15.81,Default,,0,0,0,,Roger!
 Dialogue: 0,0:15:14.73,0:15:15.81,Alt,,0,0,0,,Right!
 Dialogue: 0,0:15:16.30,0:15:18.81,Default,,0,0,0,,This is my Tanuki Detector!
 Dialogue: 0,0:15:21.02,0:15:24.99,Default,,0,0,0,,Tan-tan-tanuki is a detector! {TM: Is this one of them songs yall were talking about?}
-Dialogue: 0,0:15:24.99,0:15:28.17,Default,,0,0,0,,Even without wind its ball swing back and forth!
+Dialogue: 0,0:15:24.99,0:15:28.17,Default,,0,0,0,,Even without wind, its ball swings back and forth!
 Dialogue: 0,0:15:28.17,0:15:29.49,Default,,0,0,0,,Good, isn't it?
 Dialogue: 0,0:15:29.49,0:15:31.20,Default,,0,0,0,,Come to me, Lava Chimera!
 Dialogue: 0,0:15:54.27,0:15:57.01,Default,,0,0,0,,Woah! It's the real Lava Chimera!
@@ -371,7 +371,7 @@ Dialogue: 0,0:17:58.86,0:18:00.34,Default,,0,0,0,,This is!..
 Dialogue: 0,0:18:07.45,0:18:08.86,Default,,0,0,0,,Fire Dragon...
 Dialogue: 0,0:18:10.15,0:18:11.57,Default,,0,0,0,,This is...
 Dialogue: 0,0:18:16.68,0:18:18.12,Default,,0,0,0,,I hear it.
-Dialogue: 0,0:18:18.96,0:18:21.83,Default,,0,0,0,,Fire Dragon's... hearbeat.
+Dialogue: 0,0:18:18.96,0:18:21.83,Default,,0,0,0,,Fire Dragon's... heartbeat.
 Dialogue: 0,0:18:29.94,0:18:32.63,Default,,0,0,0,,Ohohoho! You ended up in such a place?
 Dialogue: 0,0:18:32.63,0:18:34.72,Default,,0,0,0,,I'll get you soon.
 Dialogue: 0,0:18:38.06,0:18:39.35,Default,,0,0,0,,Eh?
@@ -477,7 +477,7 @@ Dialogue: 0,0:24:32.19,0:24:33.03,Default,,0,0,0,,Mhm.
 Dialogue: 0,0:24:33.03,0:24:35.00,Default,,0,0,0,,That's right! Look here.
 Dialogue: 0,0:24:38.02,0:24:39.04,Default,,0,0,0,,So pretty!
 Dialogue: 0,0:24:39.04,0:24:40.79,Default,,0,0,0,,Professor, could that be?..
-Dialogue: 0,0:24:40.79,0:24:45.24,Default,,0,0,0,,Correct! That's the Mon-Mon Item of Fire, The Ruby Ring!
+Dialogue: 0,0:24:40.79,0:24:45.24,Default,,0,0,0,,Correct! This is the Mon-Mon Item of Fire, The Ruby Ring!
 Dialogue: 0,0:24:45.24,0:24:47.34,Default,,0,0,0,,Seems that Lava Chimera dropped it.
 Dialogue: 0,0:24:47.34,0:24:48.80,Default,,0,0,0,,So this is a Mon-Mon Item...
 Dialogue: 0,0:24:49.21,0:24:53.41,Default,,0,0,0,,Right, five more left! And then my dream will come true!
