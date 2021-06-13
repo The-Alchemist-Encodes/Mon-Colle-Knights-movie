@@ -16,9 +16,9 @@ Video File: ../encodes/[TAE] Mon Colle Knight- Densetsu no Fire Dragon.mkv
 Video AR Mode: 4
 Video AR Value: 1.329588
 Video Zoom Percent: 0.500000
-Scroll Position: 57
-Active Line: 60
-Video Position: 5505
+Scroll Position: 323
+Active Line: 329
+Video Position: 24499
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -343,10 +343,10 @@ Dialogue: 0,0:15:14.73,0:15:15.81,Default,,0,0,0,,Roger!
 Dialogue: 0,0:15:14.73,0:15:15.81,Alt,,0,0,0,,Right!
 Dialogue: 0,0:15:16.30,0:15:18.81,Default,,0,0,0,,This is my Tanuki Detector!
 Dialogue: 0,0:15:21.02,0:15:24.99,Default,,0,0,0,,Tan-tan-tanuki is a detector! {TM: Is this one of them songs yall were talking about?}
-Dialogue: 0,0:15:24.99,0:15:28.17,Default,,0,0,0,,Even without wind its balls swing back and forth!
+Dialogue: 0,0:15:24.99,0:15:28.17,Default,,0,0,0,,Even without wind, its balls swing back and forth!
 Dialogue: 0,0:15:28.17,0:15:29.49,Default,,0,0,0,,Good, isn't it?
 Dialogue: 0,0:15:29.49,0:15:31.20,Default,,0,0,0,,Come to me, Lava Chimera!
-Dialogue: 0,0:15:54.27,0:15:57.01,Default,,0,0,0,,Woah! It's the real Lava Chimera!
+Dialogue: 0,0:15:54.27,0:15:57.01,Default,,0,0,0,,Whoa! It's the real Lava Chimera!
 Dialogue: 0,0:15:57.01,0:15:59.15,Default,,0,0,0,,This isn't something to be happy about!
 Dialogue: 0,0:15:59.15,0:16:02.85,Default,,0,0,0,,Now, make Chimera the first\Nto join my monster collection!
 Dialogue: 0,0:16:02.85,0:16:04.03,Default,,0,0,0,,On that!
@@ -368,7 +368,7 @@ Dialogue: 0,0:17:10.70,0:17:12.60,Default,,0,0,0,,It's bad! We must save her!
 Dialogue: 0,0:17:12.60,0:17:14.47,Default,,0,0,0,,Impossible! In such situation—
 Dialogue: 0,0:17:14.47,0:17:16.41,Default,,0,0,0,,But, are you really going to leave her?
 Dialogue: 0,0:17:16.41,0:17:17.77,Default,,0,0,0,,Rokuna, Mondo!
-Dialogue: 0,0:17:26.65,0:17:27.90,Default,,0,0,0,,Woah!
+Dialogue: 0,0:17:26.65,0:17:27.90,Default,,0,0,0,,Whoa!
 Dialogue: 0,0:17:38.92,0:17:40.62,Default,,0,0,0,,Ouch...
 Dialogue: 0,0:17:41.53,0:17:44.37,Default,,0,0,0,,Don't push, Mondo! It's gonna come out!
 Dialogue: 0,0:17:44.95,0:17:46.71,Default,,0,0,0,,Lovestar! You aren't hurt, are you?
@@ -416,7 +416,7 @@ Dialogue: 0,0:21:12.29,0:21:13.71,Default,,0,0,0,,Fire Dragon!
 Dialogue: 0,0:21:13.71,0:21:17.76,Default,,0,0,0,,Ohohoho! What, did you think you won?
 Dialogue: 0,0:21:18.17,0:21:23.21,Default,,0,0,0,,At this pace, I'll be able to conquer both\Nthe real world and the World of Six Gates!
 Dialogue: 0,0:21:23.21,0:21:24.68,Default,,0,0,0,,Count, please reconsider!
-Dialogue: 0,0:21:24.68,0:21:26.26,Default,,0,0,0,,Sounds interesting!..
+Dialogue: 0,0:21:24.68,0:21:26.26,Default,,0,0,0,,Sounds interesting!
 Dialogue: 0,0:21:26.26,0:21:26.68,Default,,0,0,0,,Ohohohohohoho!
 Dialogue: 0,0:21:26.68,0:21:26.72,Default,,0,0,0,,{\pos(356.912,513.33)}Ohohohohohoho!
 Dialogue: 0,0:21:26.72,0:21:26.76,Default,,0,0,0,,{\pos(353.554,513.62)}Ohohohohohoho!
@@ -459,7 +459,7 @@ Dialogue: 0,0:21:31.79,0:21:33.86,Default,,0,0,0,,Using my beloved monsters...
 Dialogue: 0,0:21:33.86,0:21:37.53,Default,,0,0,0,,and troubling both the\Nreal world and the World of Six Gates...
 Dialogue: 0,0:21:37.53,0:21:40.45,Default,,0,0,0,,I won't lose to such a guy!
 Dialogue: 0,0:22:28.97,0:22:30.36,Default,,0,0,0,,Uh-huh...
-Dialogue: 0,0:22:31.37,0:22:32.92,Default,,0,0,0,,Huh? That's the!..
+Dialogue: 0,0:22:31.37,0:22:32.92,Default,,0,0,0,,Huh? That's the...!
 Dialogue: 0,0:22:40.96,0:22:42.28,Default,,0,0,0,,Let me explain!
 Dialogue: 0,0:22:42.28,0:22:46.62,Default,,0,0,0,,Fire Dragon responded to Mondo\Nand Rokuna's courage and kindness!
 Dialogue: 0,0:22:46.62,0:22:52.04,Default,,0,0,0,,Furthermore, right now, thanks to this\Npossession, it transformed into Final Fire Dragon!{Bitch, this isn't even my final form}
@@ -484,7 +484,7 @@ Dialogue: 0,0:24:30.53,0:24:32.19,Default,,0,0,0,,Possessing a monster!
 Dialogue: 0,0:24:32.19,0:24:33.03,Default,,0,0,0,,Mhm.
 Dialogue: 0,0:24:33.03,0:24:35.00,Default,,0,0,0,,That's right! Look here.
 Dialogue: 0,0:24:38.02,0:24:39.04,Default,,0,0,0,,So pretty!
-Dialogue: 0,0:24:39.04,0:24:40.79,Default,,0,0,0,,Professor, could that be?..
+Dialogue: 0,0:24:39.04,0:24:40.79,Default,,0,0,0,,Professor, could that be...?
 Dialogue: 0,0:24:40.79,0:24:45.24,Default,,0,0,0,,Correct! That's the Mon-Mon Item of Fire, The Ruby Ring!
 Dialogue: 0,0:24:45.24,0:24:47.34,Default,,0,0,0,,Seems that Lava Chimera dropped it.
 Dialogue: 0,0:24:47.34,0:24:48.80,Default,,0,0,0,,So this is a Mon-Mon Item...
