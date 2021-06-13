@@ -16,9 +16,9 @@ Video File: ../encodes/[TAE] Mon Colle Knight- Densetsu no Fire Dragon.mkv
 Video AR Mode: 4
 Video AR Value: 1.329588
 Video Zoom Percent: 0.500000
-Scroll Position: 323
-Active Line: 329
-Video Position: 24499
+Scroll Position: 309
+Active Line: 317
+Video Position: 23086
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -349,7 +349,7 @@ Dialogue: 0,0:15:29.49,0:15:31.20,Default,,0,0,0,,Come to me, Lava Chimera!
 Dialogue: 0,0:15:54.27,0:15:57.01,Default,,0,0,0,,Whoa! It's the real Lava Chimera!
 Dialogue: 0,0:15:57.01,0:15:59.15,Default,,0,0,0,,This isn't something to be happy about!
 Dialogue: 0,0:15:59.15,0:16:02.85,Default,,0,0,0,,Now, make Chimera the first\Nto join my monster collection!
-Dialogue: 0,0:16:02.85,0:16:04.03,Default,,0,0,0,,On that!
+Dialogue: 0,0:16:02.85,0:16:04.03,Default,,0,0,0,,On it!
 Dialogue: 0,0:16:09.47,0:16:13.91,Default,,0,0,0,,Hahaha! We'll combine it with Flying Lion!
 Dialogue: 0,0:16:24.97,0:16:26.88,Default,,0,0,0,,See! The triumph of science!
 Dialogue: 0,0:16:33.60,0:16:36.94,Default,,0,0,0,,Now, Lava Chimera, annihilate these guys!
