@@ -3,16 +3,16 @@ Tracking for the encode and release of the movie [Rokumon Tengai Mon Colle Knigh
 
 ## The team ##
 
-| Role  | Team member |
-| :---- | :---------: |
-| ENC   | Riven Skaye |
+| Role  | Team members |
+| :---- | :----------- |
+| ENC   | Riven Skaye  |
 | TL    | lateinautumn (dialogue), Roak (songs) |
-| TLC   | Roak |
-| TS    | eva |
+| TLC   | Roak         |
+| TS    | eva          |
 | TM    | LafferStyle (dialogue), wwwwwwww (songs) |
 | KFX   | wwwwwwww (songs) |
 | ED    | wwwwwwww (dialogue), bthen13 (dialogue), Riven Skaye |
-| QC    | bthen13 |
+| QC    | bthen13      |
 | CHRLD | bthen13, eva |
 
 Special thanks to Occultic;Loli for help with song editing!
