@@ -16,9 +16,9 @@ Video File: ../encodes/[TAE] Mon Colle Knight- Densetsu no Fire Dragon.mkv
 Video AR Mode: 4
 Video AR Value: 1.329588
 Video Zoom Percent: 1.000000
-Scroll Position: 125
-Active Line: 143
-Video Position: 38513
+Scroll Position: 2305
+Active Line: 2310
+Video Position: 32306
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +41,7 @@ Dialogue: 0,0:00:38.54,0:00:39.27,Narrator,,0,0,0,,Water!
 Dialogue: 0,0:00:42.74,0:00:44.02,Narrator,,0,0,0,,Earth!
 Dialogue: 0,0:00:45.78,0:00:46.71,Narrator,,0,0,0,,Light!
 Dialogue: 0,0:00:49.29,0:00:50.78,Narrator,,0,0,0,,Darkness!
-Dialogue: 0,0:00:50.78,0:00:54.80,Narrator,,0,0,0,,These six elements are what form that mysterious world.{old:T‌hese elements are what this mysterious world is made up of.}
+Dialogue: 0,0:00:50.78,0:00:54.80,Narrator,,0,0,0,,T‌hese six elements are what form this mysterious world.
 Dialogue: 0,0:00:55.59,0:00:59.36,Narrator,,0,0,0,,A wondrous world inhabited with various monsters.
 Dialogue: 0,0:01:00.08,0:01:04.54,Narrator,,0,0,0,,T‌his is the story of a boy and a girl and\Ntheir adventures in this world of monsters,{old: T‌his is the story of the adventures of a\Nboy and a girl in this world of monsters,}
 Dialogue: 0,0:01:04.54,0:01:09.51,Narrator,,0,0,0,,a story of love and friendship.
@@ -50,7 +50,7 @@ Dialogue: 0,0:01:30.15,0:01:32.82,Default,,0,0,0,,I'm counting on you, partner. 
 Dialogue: 0,0:01:34.16,0:01:37.88,Default,,0,0,0,,Songstress of the Flower Garden,\Nprotect everyone using Resistance!
 Dialogue: 0,0:01:38.70,0:01:39.91,Narrator,,0,0,0,,Let me explain!
 Dialogue: 0,0:01:39.91,0:01:43.48,Narrator,,0,0,0,,Here, everyone is playing Monster Collection.
-Dialogue: 0,0:01:43.48,0:01:47.39,Narrator,,0,0,0,,A super{\fay.22}-{\fay0}popular card game set in the World of Six Gates.
+Dialogue: 0,0:01:43.48,0:01:47.39,Narrator,,0,0,0,,A super{\fay.14}-{\fay0}popular card game set in the World of Six Gates.
 Dialogue: 0,0:01:52.44,0:01:56.12,Default,,0,0,0,,Man, wouldn't it be really cool if\Nthe World of Six Gates really existed?
 Dialogue: 0,0:01:57.41,0:02:02.02,Default,,0,0,0,,I wanna see the monsters like\Nthe ones in Monster Collection!
 Dialogue: 0,0:02:02.02,0:02:09.11,Narrator,,0,0,0,,And this is a huge fan of Mon Colle, fifth{\fay.22}-{\fay0}grade boy Mondo Ooya.
@@ -66,10 +66,9 @@ Dialogue: 0,0:02:36.14,0:02:37.64,Default,,0,0,0,,Uh, Rokuna?
 Dialogue: 0,0:02:38.02,0:02:40.10,Default,,0,0,0,,Ah, but that's okay, Mon.
 Dialogue: 0,0:02:40.53,0:02:42.93,Default,,0,0,0,,T‌here's a ghost in front of that locker.
 Dialogue: 0,0:02:42.93,0:02:43.89,Default,,0,0,0,,Whoa!?
-Dialogue: 0,0:02:44.38,0:02:46.59,Narrator,,0,0,0,,It seems I must explain even further.{old:I have to explain some more.}
+Dialogue: 0,0:02:44.38,0:02:46.59,Narrator,,0,0,0,,It seems I must explain even further.
 Dialogue: 0,0:02:46.59,0:02:50.21,Narrator,,0,0,0,,T‌his girl, Rokuna Hiiragi, is a medium.
 Dialogue: 0,0:02:50.21,0:02:53.70,Narrator,,0,0,0,,She can see ghosts where normal people can't!
-Comment: 0,0:02:55.06,0:02:57.20,Default,,0,0,0,,Y{\fay.22}-{\fay0}You're the same as ever, Rokuna... {TM: either this becomes "You're the same as ever" or "Y-Y-Y-Y-You're the same as ever" with alpha timing. Editor's choice.}
 Dialogue: 0,0:02:54.09,0:02:54.39,Default,,0,0,0,,Y{\fay.22}-{\fay0}{\alpha&FF&}Y{\fay.22}-{\fay0}Y{\fay.22}-{\fay0}Y{\fay.22}-{\fay0}You're the same as ever, Rokuna...
 Dialogue: 0,0:02:54.39,0:02:54.59,Default,,0,0,0,,Y{\fay.22}-{\fay0}Y{\fay.22}-{\fay0}{\alpha&FF&}Y{\fay.22}-{\fay0}Y{\fay.22}-{\fay0}You're the same as ever, Rokuna...
 Dialogue: 0,0:02:54.59,0:02:54.89,Default,,0,0,0,,Y{\fay.22}-{\fay0}Y{\fay.22}-{\fay0}Y{\fay.22}-{\fay0}{\alpha&FF&}Y{\fay.22}-{\fay0}You're the same as ever, Rokuna...
@@ -85,15 +84,15 @@ Dialogue: 0,0:03:14.24,0:03:17.68,Default,,0,0,0,,Let's start studying— huh?
 Dialogue: 0,0:03:18.04,0:03:19.14,Default,,0,0,0,,Rokuna, I love you.
 Dialogue: 0,0:03:19.14,0:03:20.11,Default,,0,0,0,,Mon, I love you too.
 Dialogue: 0,0:03:22.27,0:03:22.98,Default,,0,0,0,,Hey!
-Dialogue: 0,0:03:22.98,0:03:26.20,Default,,0,0,0,,Elementary schoolers don't deserve to be\Nhaving a PDA in the middle of homeroom!{old:Elementary schoolers shouldn't be having love scenes yet.}
-Dialogue: 0,0:03:26.20,0:03:29.51,Narrator,,0,0,0,,Ms. Namiko here is a 29{\fay.22}-{\fay0}year{\fay.22}-{\fay0}old\Nwho hasn't had a lover in 30!
+Dialogue: 0,0:03:22.98,0:03:26.20,Default,,0,0,0,,Elementary schoolers shouldn't be flirting just yet!
+Dialogue: 0,0:03:26.20,0:03:29.51,Narrator,,0,0,0,,Ms. Namiko here is a 29{\fay.14}-{\fay0}year{\fay.14}-{\fay0}old\Nwho hasn't had a lover in 30!
 Dialogue: 0,0:03:29.51,0:03:32.04,Default,,0,0,0,,I'll become an old maid soon—\NWait a minute!
 Dialogue: 0,0:03:32.04,0:03:32.99,Default,,0,0,0,,Rokuna...
 Dialogue: 0,0:03:32.99,0:03:33.73,Default,,0,0,0,,Mon...
 Dialogue: 0,0:03:35.13,0:03:35.90,Default,,0,0,0,,Like I said—
-Dialogue: 0,0:03:42.45,0:03:44.68,Default,,0,0,0,,That's my house! Papa!
+Dialogue: 0,0:03:42.45,0:03:44.68,Default,,0,0,0,,T‌hat's my house! Papa!
 Dialogue: 0,0:03:44.68,0:03:45.71,Default,,0,0,0,,Oh no!
-Dialogue: 0,0:03:48.21,0:03:49.63,Default,,0,0,0,,Someone wife me up...{old:Give me love...}
+Dialogue: 0,0:03:48.21,0:03:49.63,Default,,0,0,0,,Someone wife me up...
 Dialogue: 0,0:03:52.86,0:03:54.13,Default,,0,0,0,,Papa! Papa!
 Dialogue: 0,0:03:54.13,0:03:56.05,Default,,0,0,0,,Professor! Are you alright?
 Dialogue: 0,0:04:00.10,0:04:03.01,Default,,0,0,0,,I did it! At last, I did it!
@@ -117,46 +116,47 @@ Dialogue: 0,0:04:56.56,0:04:58.02,Default,,0,0,0,,Flying Dragon!
 Dialogue: 0,0:04:58.82,0:05:02.03,Default,,0,0,0,,It's a dragon{\fay.22}-{\fay0}shaped parallel world transport!
 Dialogue: 0,0:05:05.35,0:05:07.04,Default,,0,0,0,,So amazing!
 Dialogue: 0,0:05:07.04,0:05:10.33,Default,,0,0,0,,I can ride it to go to the World of Six Gates!
-Dialogue: 0,0:05:10.33,0:05:12.71,Default,,0,0,0,,I can finally meet my favorite monsters!{old:I can't wait to see the monsters!}
+Dialogue: 0,0:05:10.33,0:05:12.71,Default,,0,0,0,,I can finally meet my favorite monsters!
 Dialogue: 0,0:05:13.73,0:05:19.03,Default,,0,0,0,,I won! I beat that Collection dumbass!
 Dialogue: 0,0:05:21.20,0:05:22.97,Default,,0,0,0,,Collection dumbass?
-Dialogue: 0,0:05:24.70,0:05:29.13,Narrator,,0,0,0,,Here, in the depths of a German forest, lies an aging castle.{old:T‌his is an old castle deep in a German forest.}
+Dialogue: 0,0:05:24.70,0:05:29.13,Narrator,,0,0,0,,Here, in the depths of a German forest, lies an aged castle.
 Dialogue: 0,0:05:30.33,0:05:31.64,Default,,0,0,0,,Elohim essaim...
 Dialogue: 0,0:05:32.92,0:05:35.22,Default,,0,0,0,,I am seeking—
 Dialogue: 0,0:05:37.37,0:05:39.45,Default,,0,0,0,,You're so cool, Count!
 Dialogue: 0,0:05:39.45,0:05:42.52,Default,,0,0,0,,T‌hat was wonderful, Count!
 Dialogue: 0,0:05:42.52,0:05:44.78,Default,,0,0,0,,Right on!
 Dialogue: 0,0:05:45.09,0:05:47.52,Default,,0,0,0,,Ah, really? Was it?
-Dialogue: 0,0:05:48.00,0:05:49.72,Narrator,,0,0,0,,And in that castle is this man,
+Dialogue: 0,0:05:48.00,0:05:49.72,Narrator,,0,0,0,,And in that castle lives this man,
 Dialogue: 0,0:05:49.72,0:05:54.47,Narrator,,0,0,0,,Professor Ichiroubei Hiiragi's rival, Count Collection.
 Dialogue: 0,0:05:54.47,0:05:57.04,Narrator,,0,0,0,,He's also an outstanding scientist.
 Dialogue: 0,0:05:57.58,0:06:00.05,Default,,0,0,0,,Who, me? Aww, thanks!
 Dialogue: 0,0:06:00.05,0:06:01.59,Narrator,,0,0,0,,However, he's a fairy!
-Dialogue: 0,0:06:01.59,0:06:03.22,Default,,0,0,0,,What's there to smile about, you wimp!{old:Behave according to your position!}
+Dialogue: 0,0:06:01.59,0:06:03.22,Default,,0,0,0,,What's there to smile about, you wimp!?
 Dialogue: 0,0:06:03.71,0:06:04.79,Default,,0,0,0,,I hate violence...
-Dialogue: 0,0:06:04.79,0:06:05.93,Default,,0,0,0,,My, my...
-Dialogue: 0,0:06:05.93,0:06:07.19,Default,,0,0,0,,Not again... {old:Again!}
-Dialogue: 0,0:06:09.35,0:06:12.29,Default,,0,0,0,,Anyways, I've done it at last!
+Dialogue: 0,0:06:04.79,0:06:05.93,Default,,0,0,0,,My my...
+Dialogue: 0,0:06:05.76,0:06:05.93,Alt,,0,0,0,,{\fs16\pos(358,488)}Ara ara...
+Dialogue: 0,0:06:05.93,0:06:07.19,Default,,0,0,0,,Not again...
+Dialogue: 0,0:06:09.35,0:06:12.29,Default,,0,0,0,,Anyway, I've done it at last!
 Dialogue: 0,0:06:12.29,0:06:15.96,Default,,0,0,0,,I have discovered the Dream Hole.
 Dialogue: 0,0:06:15.96,0:06:18.48,Default,,0,0,0,,T‌hrough it, I can go to the World of Six Gates!
 Dialogue: 0,0:06:18.48,0:06:20.72,Default,,0,0,0,,I would absolutely love to see it!
 Dialogue: 0,0:06:20.72,0:06:22.45,Default,,0,0,0,,Are you okay in the head?
 Dialogue: 0,0:06:23.49,0:06:29.56,Default,,0,0,0,,For Count Ludwig Presto Von Meinstein Collection,\Nthere's no such thing as "impossible"!
 Dialogue: 0,0:06:29.56,0:06:30.87,Default,,0,0,0,,Watch this. Observe.
-Dialogue: 0,0:06:33.66,0:06:35.86,Default,,0,0,0,,Look! T‌his is Monster Hunter!
+Dialogue: 0,0:06:33.66,0:06:35.86,Default,,0,0,0,,Look! T‌his is the Monster Hunter!
 Dialogue: 0,0:06:35.86,0:06:39.63,Default,,0,0,0,,Moreover, we may have found a Mon{\fay.22}-{\fay0}Mon Item!
 Dialogue: 0,0:06:39.63,0:06:41.44,Default,,0,0,0,,Mon{\fay.22}-{\fay0}Mon Item?
 Dialogue: 0,0:06:41.44,0:06:42.63,Default,,0,0,0,,What's that?
 Dialogue: 0,0:06:44.37,0:06:47.19,Default,,0,0,0,,Fire, wind, water, earth, light and darkness.
 Dialogue: 0,0:06:47.19,0:06:49.83,Default,,0,0,0,,T‌hese six elements each have a magical item.
-Dialogue: 0,0:06:49.83,0:06:51.60,Default,,0,0,0,,After so many years of research...!
-Dialogue: 0,0:06:52.06,0:06:58.04,Default,,0,0,0,,When you assemble all six Mon{\fay.22}-{\fay0}Mon Items, you\Ncan connect the World of Six Gates and this world.
-Dialogue: 0,0:06:58.04,0:06:58.90,Default,,0,0,0,,T‌herefore,
-Dialogue: 0,0:06:58.90,0:07:02.90,Default,,0,0,0,,You can bring monsters from that world here!
+Dialogue: 0,0:06:49.83,0:06:51.60,Default,,0,0,0,,According to all my years of research... {This needs checking}
+Dialogue: 0,0:06:52.06,0:06:58.04,Default,,0,0,0,,when you assemble all six Mon{\fay.22}-{\fay0}Mon Items, you\Ncan connect the World of Six Gates and this world.
+Dialogue: 0,0:06:58.04,0:06:58.90,Default,,0,0,0,,And with that,
+Dialogue: 0,0:06:58.90,0:07:02.90,Default,,0,0,0,,you can bring monsters from that world here!
 Dialogue: 0,0:07:02.90,0:07:08.62,Default,,0,0,0,,T‌hat's when I'm going to command\Nan army of monsters and conquer the world!
 Dialogue: 0,0:07:09.83,0:07:14.54,Default,,0,0,0,,By connecting our world and the World of Six Gates,\Nwe'll have a cultural exchange between them!
 Dialogue: 0,0:07:14.54,0:07:17.41,Default,,0,0,0,,Humanity will surely advance even further!
-Dialogue: 0,0:07:17.41,0:07:22.84,Default,,0,0,0,,That's when I'm going to be renowned\Nfor great contributions to human progress!
+Dialogue: 0,0:07:17.41,0:07:22.84,Default,,0,0,0,,T‌hat's when I'm going to be renowned\Nfor great contributions to human progress!
 Dialogue: 0,0:07:24.28,0:07:25.51,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:07:25.51,0:07:28.01,Default,,0,0,0,,To the World of Six Gates!
 Dialogue: 0,0:07:28.01,0:07:29.43,Default,,0,0,0,,Roger!
@@ -166,8 +166,8 @@ Dialogue: 0,0:08:47.16,0:08:49.14,Default,,0,0,0,,Flying Lion, launch!
 Dialogue: 0,0:08:49.14,0:08:50.36,Default,,0,0,0,,Let's go!
 Dialogue: 0,0:08:50.36,0:08:52.09,Default,,0,0,0,,Leave it to us!
 Dialogue: 0,0:08:52.09,0:08:54.14,Default,,0,0,0,,To the sky!
-Dialogue: 0,0:08:54.14,0:08:58.27,Default,,0,0,0,,\NHow lovely of you to join us for a showing of\N"Welcome to Collection's Room of Roses"!{old:Now, let's watch the movie\N"Welcome to Collection's Room of Roses"!}
-Dialogue: 0,0:08:58.27,0:08:59.94,Default,,0,0,0,,Let's get pumped up in here!
+Dialogue: 0,0:08:54.14,0:08:58.27,Default,,0,0,0,,\NHow lovely of you to join us for a showing of\N"Welcome to Collection's Room of Roses"!
+Dialogue: 0,0:08:58.27,0:08:59.94,Default,,0,0,0,,Let's get this party started! {This needs checking}
 Dialogue: 0,0:08:59.94,0:09:00.77,Default,,0,0,0,,Sure!
 Dialogue: 0,0:09:00.77,0:09:02.41,Default,,0,0,0,,By the way, do you know my name?
 Dialogue: 0,0:09:02.41,0:09:03.73,Default,,0,0,0,,Of course we do!
@@ -175,7 +175,7 @@ Dialogue: 0,0:09:03.73,0:09:04.71,Default,,0,0,0,,Please, say it.
 Dialogue: 0,0:09:04.71,0:09:05.59,Default,,0,0,0,,One, two!
 Dialogue: 0,0:09:05.59,0:09:10.11,Default,,0,0,0,,Count Ludwig Presto Von Meinstein Collection!
 Dialogue: 0,0:09:10.11,0:09:12.28,Default,,0,0,0,,Ah, you did it so well!
-Dialogue: 0,0:09:12.28,0:09:14.91,Default,,0,0,0,,This time with everyone, let's do it together!
+Dialogue: 0,0:09:12.28,0:09:14.91,Default,,0,0,0,,T‌his time with everyone, let's do it together!
 Dialogue: 0,0:09:14.91,0:09:16.05,Default,,0,0,0,,One, two!
 Dialogue: 0,0:09:16.05,0:09:19.39,Default,,0,0,0,,{\k39}Count {\k46}Ludwig {\k46}Presto {\k26}Von {\k67}Meinstein {\k72}Collection.
 Dialogue: 0,0:09:19.88,0:09:22.73,Default,,0,0,0,,Meh, so passionless.
@@ -184,7 +184,7 @@ Dialogue: 0,0:09:26.91,0:09:29.75,Default,,0,0,0,,Now, with your mother and your
 Dialogue: 0,0:09:29.75,0:09:30.88,Default,,0,0,0,,One, two!
 Dialogue: 0,0:09:30.88,0:09:33.64,Default,,0,0,0,,{\k40}Count {\k47}Ludwig {\k47}Presto {\k27}Von {\k66}Meinstein {\k73}Collection!
 Dialogue: 0,0:09:34.94,0:09:37.62,Default,,0,0,0,,Well done!
-Dialogue: 0,0:09:41.03,0:09:44.15,Default,,0,0,0,,We'll soon be arriving at the World of Six Gates!
+Dialogue: 0,0:09:41.03,0:09:44.15,Default,,0,0,0,,We'll soon be arriving in the World of Six Gates!
 Dialogue: 0,0:09:44.88,0:09:46.00,Default,,0,0,0,,I'll finally meet them.
 Dialogue: 0,0:09:46.00,0:09:49.15,Default,,0,0,0,,Soon enough, I'll meet all the\Nmonsters I've been playing with...
 Dialogue: 0,0:09:53.91,0:09:54.95,Default,,0,0,0,,Ehhhh?
@@ -230,7 +230,7 @@ Dialogue: 0,0:12:10.82,0:12:14.26,Default,,0,0,0,,Hey, wait, you two!
 Dialogue: 0,0:12:14.60,0:12:17.85,Default,,0,0,0,,I know this place is fascinating,\Nbut they certainly are a rowdy bunch..
 Dialogue: 0,0:12:19.97,0:12:21.97,Default,,0,0,0,,Huh? Already detecting a monster?
 Dialogue: 0,0:12:21.97,0:12:23.94,Default,,0,0,0,,Come on, come on, come on!
-Dialogue: 0,0:12:23.94,0:12:26.22,Default,,0,0,0,,And do you think you've {\i1}come on{\i0} top in this race?
+Dialogue: 0,0:12:23.94,0:12:26.22,Alt,,0,0,0,,And do you think you've {\i0}come on top{\i1} in this race?
 Dialogue: 0,0:12:26.22,0:12:28.48,Default,,0,0,0,,Well yes, I— yuck, it's you!
 Dialogue: 0,0:12:28.48,0:12:28.93,Default,,0,0,0,,Ahahahahaha!
 Dialogue: 0,0:12:28.93,0:12:28.97,Default,,0,0,0,,{\pos(353.117,515.772)}Ahahahahaha!
@@ -279,12 +279,12 @@ Dialogue: 0,0:12:33.80,0:12:34.43,Default,,0,0,0,,Huh?
 Dialogue: 0,0:12:34.43,0:12:34.98,Default,,0,0,0,,Eh?
 Dialogue: 0,0:12:35.43,0:12:37.57,Default,,0,0,0,,Excuse me, what are you doing?
 Dialogue: 0,0:12:38.07,0:12:39.07,Default,,0,0,0,,You don't know?
-Dialogue: 0,0:12:39.63,0:12:44.44,Default,,0,0,0,,We gather Burning Tree branches here\Nfrom the forest for a living.
+Dialogue: 0,0:12:39.63,0:12:44.44,Default,,0,0,0,,We gather the grove's Burning\NTree branches for a living here.
 Dialogue: 0,0:12:44.44,0:12:45.98,Default,,0,0,0,,Branches?
 Dialogue: 0,0:12:45.98,0:12:48.17,Default,,0,0,0,,T‌his fire is magical.
 Dialogue: 0,0:12:48.17,0:12:50.25,Default,,0,0,0,,We sell it to other lands.
 Dialogue: 0,0:12:50.25,0:12:52.50,Default,,0,0,0,,So it's this land's local specialty, huh?
-Dialogue: 0,0:12:52.95,0:12:56.51,Default,,0,0,0,,In this forest lives the legendary Fire Dragon.
+Dialogue: 0,0:12:52.95,0:12:56.51,Default,,0,0,0,,The legendary Fire Dragon is said to live in this grove.
 Dialogue: 0,0:12:56.84,0:12:57.88,Default,,0,0,0,,Legendary...
 Dialogue: 0,0:12:57.88,0:12:58.99,Default,,0,0,0,,Fire Dragon?
 Dialogue: 0,0:12:58.99,0:13:00.61,Default,,0,0,0,,Children!
@@ -310,9 +310,9 @@ Dialogue: 0,0:13:49.55,0:13:50.59,Default,,0,0,0,,Eaaaargghh!
 Dialogue: 0,0:13:50.59,0:13:51.09,Default,,0,0,0,,Ah, Papa!
 Dialogue: 0,0:13:51.09,0:13:51.60,Default,,0,0,0,,Professor!
 Dialogue: 0,0:13:52.95,0:13:54.29,Default,,0,0,0,,Stop that, Collection!
-Dialogue: 0,0:13:54.29,0:13:56.36,Default,,0,0,0,,Is this how you treat your teachers?
+Dialogue: 0,0:13:54.29,0:13:56.36,Default,,0,0,0,,Is this how you treat your senior apprentice?
 Dialogue: 0,0:13:56.36,0:14:00.44,Default,,0,0,0,,Silence! You're in the way of our plan!
-Dialogue: 0,0:14:00.44,0:14:04.41,Default,,0,0,0,,Hmm... You can become prey for the monsters here.
+Dialogue: 0,0:14:00.44,0:14:04.41,Default,,0,0,0,,Hmm... Why don't we leave you to\Nbecome prey for the monsters here?
 Dialogue: 0,0:14:04.41,0:14:06.87,Default,,0,0,0,,Collection! What do you think you're doing!?
 Dialogue: 0,0:14:06.87,0:14:09.53,Default,,0,0,0,,Ahahahahahaha!
 Dialogue: 0,0:14:09.53,0:14:12.85,Default,,0,0,0,,I'm going to take control of the monsters,\Nobtain all six Mon{\fay.22}-{\fay0}Mon Items,
@@ -363,7 +363,7 @@ Dialogue: 0,0:16:49.22,0:16:49.91,Default,,0,0,0,,Mon!
 Dialogue: 0,0:16:49.91,0:16:51.33,Default,,0,0,0,,You aren't escaping!
 Dialogue: 0,0:16:51.33,0:16:53.91,Default,,0,0,0,,T‌his is the price you pay for being in the way!
 Dialogue: 0,0:16:53.91,0:16:56.79,Default,,0,0,0,,Butcher them, Lava Chimera!
-Dialogue: 0,0:16:56.79,0:17:00.33,Default,,0,0,0,,I wonder, we should really be doing this kind of stuff?
+Dialogue: 0,0:16:56.79,0:17:00.33,Default,,0,0,0,,I wonder, should we really be doing this kind of stuff?
 Dialogue: 0,0:17:00.33,0:17:01.81,Default,,0,0,0,,Eeeeeeeeeeeeh!
 Dialogue: 0,0:17:01.81,0:17:03.60,Default,,0,0,0,,Aaaaaaaaaaah!
 Dialogue: 0,0:17:04.75,0:17:06.42,Default,,0,0,0,,Huh? It's the thing from before!
@@ -377,7 +377,7 @@ Dialogue: 0,0:17:38.92,0:17:40.62,Default,,0,0,0,,Ouch...
 Dialogue: 0,0:17:41.53,0:17:44.37,Default,,0,0,0,,Don't push, Mondo! I can't hold it in!
 Dialogue: 0,0:17:44.95,0:17:46.71,Default,,0,0,0,,Lovestar! You aren't hurt, are you?
 Dialogue: 0,0:17:50.22,0:17:52.68,Default,,0,0,0,,Damn! What's your deal with that love{\fay.22}-{\fay0}thingy?
-Dialogue: 0,0:17:52.68,0:17:54.59,Default,,0,0,0,,Thanks to you, we've fallen down a hole—
+Dialogue: 0,0:17:52.68,0:17:54.59,Default,,0,0,0,,T‌hanks to you, we've fallen down a hole—
 Dialogue: 0,0:17:54.59,0:17:55.60,Default,,0,0,0,,Whaaaaaa?
 Dialogue: 0,0:17:55.60,0:17:56.60,Default,,0,0,0,,Huh?
 Dialogue: 0,0:17:55.83,0:17:56.60,Alt,,0,0,0,,Huh?
@@ -421,7 +421,7 @@ Dialogue: 0,0:21:10.78,0:21:12.29,Default,,0,0,0,,Fight on, Fire Dragon!
 Dialogue: 0,0:21:12.29,0:21:13.71,Default,,0,0,0,,Fire Dragon!
 Dialogue: 0,0:21:13.71,0:21:17.76,Default,,0,0,0,,Ohohoho! What, did you think you won?
 Dialogue: 0,0:21:18.17,0:21:23.21,Default,,0,0,0,,At this pace, I'll be able to conquer both\Nthe real world and the World of Six Gates!
-Dialogue: 0,0:21:23.21,0:21:24.68,Default,,0,0,0,,You're not so wimpy after all!
+Dialogue: 0,0:21:23.21,0:21:24.68,Default,,0,0,0,,You're not such a wimp after all!{This is fucking late backref to L99}
 Dialogue: 0,0:21:24.68,0:21:26.26,Default,,0,0,0,,Sounds interesting!
 Dialogue: 0,0:21:26.26,0:21:26.68,Default,,0,0,0,,Ohohohohohoho!
 Dialogue: 0,0:21:26.68,0:21:26.72,Default,,0,0,0,,{\pos(356.912,513.33)}Ohohohohohoho!
@@ -462,7 +462,7 @@ Dialogue: 0,0:21:28.09,0:21:28.14,Default,,0,0,0,,{\pos(355.355,515.004)}Ohohoho
 Dialogue: 0,0:21:28.14,0:21:28.85,Default,,0,0,0,,Ohohohohohoho!
 Dialogue: 0,0:21:29.52,0:21:31.30,Default,,0,0,0,,I won't allow that!
 Dialogue: 0,0:21:31.79,0:21:33.86,Default,,0,0,0,,Using my beloved monsters...
-Dialogue: 0,0:21:33.86,0:21:37.53,Default,,0,0,0,,and troubling both the\Nreal world and the World of Six Gates...
+Dialogue: 0,0:21:33.86,0:21:37.53,Default,,0,0,0,,and troubling both the real\Nworld and the World of Six Gates...
 Dialogue: 0,0:21:37.53,0:21:40.45,Default,,0,0,0,,I won't lose to such a guy!
 Dialogue: 0,0:22:28.97,0:22:30.36,Default,,0,0,0,,Uh{\fay.22}-{\fay0}huh...
 Dialogue: 0,0:22:31.37,0:22:32.92,Default,,0,0,0,,Huh? T‌hat's the...!
@@ -481,7 +481,7 @@ Dialogue: 0,0:23:48.31,0:23:51.47,Alt,,0,0,0,,{\fad(0,1300)}Please watch the TV 
 Dialogue: 0,0:23:55.86,0:23:57.31,Default,,0,0,0,,Warriors of justice,
 Dialogue: 0,0:23:57.67,0:23:59.52,Default,,0,0,0,,Mon Colle Knights!
 Dialogue: 0,0:24:04.01,0:24:06.10,Default,,0,0,0,,You two have done well!
-Dialogue: 0,0:24:06.10,0:24:09.38,Default,,0,0,0,,Your kind hearts have opened the way to victory!
+Dialogue: 0,0:24:06.10,0:24:09.38,Default,,0,0,0,,Your kind hearts have led you on the path to victory!
 Dialogue: 0,0:24:09.38,0:24:11.35,Default,,0,0,0,,Gosh, Papa, you're so shameless...
 Dialogue: 0,0:24:22.69,0:24:23.80,Default,,0,0,0,,T‌hanks...
 Dialogue: 0,0:24:25.91,0:24:28.03,Default,,0,0,0,,Final Fire Dragon.
@@ -495,8 +495,8 @@ Dialogue: 0,0:24:40.79,0:24:45.24,Default,,0,0,0,,Correct! T‌hat's the Mon{\fa
 Dialogue: 0,0:24:45.24,0:24:47.34,Default,,0,0,0,,Seems that Lava Chimera dropped it.
 Dialogue: 0,0:24:47.34,0:24:48.80,Default,,0,0,0,,So this is a Mon{\fay.22}-{\fay0}Mon Item...
 Dialogue: 0,0:24:49.21,0:24:53.41,Default,,0,0,0,,Right, five more left! And then my dream will come true!
-Dialogue: 0,0:24:54.35,0:24:55.77,Default,,0,0,0,,Sounds like we're in for a lot.
-Dialogue: 0,0:24:54.35,0:24:55.77,Alt,,0,0,0,,Sounds like we're in for a lot.
+Dialogue: 0,0:24:54.35,0:24:55.77,Default,,0,0,0,,Sounds like we're in for a lot.{A small TV show}
+Dialogue: 0,0:24:54.35,0:24:55.77,Alt,,0,0,0,,Sounds like we're in for a lot.{of just 51 eps}
 Dialogue: 0,0:24:59.15,0:25:00.48,Default,,0,0,0,,But that's alright.
 Dialogue: 0,0:25:00.48,0:25:02.45,Default,,0,0,0,,Because we worked so hard,
 Dialogue: 0,0:25:02.45,0:25:06.02,Default,,0,0,0,,we were able to become friends with such a cute Lovestar!
@@ -2327,36 +2327,35 @@ Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(192,43)\
 Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(202,43)\alpha&HFF&\t(78.75,158.75,\alpha&H00&)\t(7051.25,7131.25,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}y
 Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(213,43)\alpha&HFF&\t(82.5,162.5,\alpha&H00&)\t(7047.5,7127.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}e
 Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(223,43)\alpha&HFF&\t(86.25,166.25,\alpha&H00&)\t(7043.75,7123.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}s
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(239,43)\alpha&HFF&\t(93.75,173.75,\alpha&H00&)\t(7036.25,7116.25,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}/
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(254,43)\alpha&HFF&\t(101.25,181.25,\alpha&H00&)\t(7028.75,7108.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}t
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(263,43)\alpha&HFF&\t(105,185,\alpha&H00&)\t(7025,7105,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}o
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(280,43)\alpha&HFF&\t(112.5,192.5,\alpha&H00&)\t(7017.5,7097.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}s
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(290,43)\alpha&HFF&\t(116.25,196.25,\alpha&H00&)\t(7013.75,7093.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}e
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(299,43)\alpha&HFF&\t(120,200,\alpha&H00&)\t(7010,7090,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}t
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(315,43)\alpha&HFF&\t(127.5,207.5,\alpha&H00&)\t(7002.5,7082.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}o
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(326,43)\alpha&HFF&\t(131.25,211.25,\alpha&H00&)\t(6998.75,7078.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}u
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(335,43)\alpha&HFF&\t(135,215,\alpha&H00&)\t(6995,7075,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}t
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(350,43)\alpha&HFF&\t(142.5,222.5,\alpha&H00&)\t(6987.5,7067.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}o
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(362,43)\alpha&HFF&\t(146.25,226.25,\alpha&H00&)\t(6983.75,7063.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}n
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(379,43)\alpha&HFF&\t(153.75,233.75,\alpha&H00&)\t(6976.25,7056.25,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}a
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(396,43)\alpha&HFF&\t(161.25,241.25,\alpha&H00&)\t(6968.75,7048.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}s
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(406,43)\alpha&HFF&\t(165,245,\alpha&H00&)\t(6965,7045,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}e
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(416,43)\alpha&HFF&\t(168.75,248.75,\alpha&H00&)\t(6961.25,7041.25,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}a
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(427,43)\alpha&HFF&\t(172.5,252.5,\alpha&H00&)\t(6957.5,7037.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}r
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(437,43)\alpha&HFF&\t(176.25,256.25,\alpha&H00&)\t(6953.75,7033.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}c
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(448,43)\alpha&HFF&\t(180,260,\alpha&H00&)\t(6950,7030,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}h
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(464,43)\alpha&HFF&\t(187.5,267.5,\alpha&H00&)\t(6942.5,7022.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}f
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(473,43)\alpha&HFF&\t(191.25,271.25,\alpha&H00&)\t(6938.75,7018.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}o
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(483,43)\alpha&HFF&\t(195,275,\alpha&H00&)\t(6935,7015,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}r
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(500,43)\alpha&HFF&\t(202.5,282.5,\alpha&H00&)\t(6927.5,7007.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}a
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(517,43)\alpha&HFF&\t(210,290,\alpha&H00&)\t(6920,7000,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}n
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(529,43)\alpha&HFF&\t(213.75,293.75,\alpha&H00&)\t(6916.25,6996.25,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}e
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(541,43)\alpha&HFF&\t(217.5,297.5,\alpha&H00&)\t(6912.5,6992.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}w
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(563,43)\alpha&HFF&\t(225,305,\alpha&H00&)\t(6905,6985,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}w
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(576,43)\alpha&HFF&\t(228.75,308.75,\alpha&H00&)\t(6901.25,6981.25,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}o
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(586,43)\alpha&HFF&\t(232.5,312.5,\alpha&H00&)\t(6897.5,6977.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}r
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(594,43)\alpha&HFF&\t(236.25,316.25,\alpha&H00&)\t(6893.75,6973.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}l
-Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(603,43)\alpha&HFF&\t(240,320,\alpha&H00&)\t(6890,6970,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}d
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(239,43)\alpha&HFF&\t(101.25,181.25,\alpha&H00&)\t(7028.75,7108.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}t
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(248,43)\alpha&HFF&\t(105,185,\alpha&H00&)\t(7025,7105,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}o
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(265,43)\alpha&HFF&\t(112.5,192.5,\alpha&H00&)\t(7017.5,7097.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}s
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(275,43)\alpha&HFF&\t(116.25,196.25,\alpha&H00&)\t(7013.75,7093.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}e
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(284,43)\alpha&HFF&\t(120,200,\alpha&H00&)\t(7010,7090,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}t
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(300,43)\alpha&HFF&\t(127.5,207.5,\alpha&H00&)\t(7002.5,7082.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}o
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(311,43)\alpha&HFF&\t(131.25,211.25,\alpha&H00&)\t(6998.75,7078.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}u
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(320,43)\alpha&HFF&\t(135,215,\alpha&H00&)\t(6995,7075,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}t
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(335,43)\alpha&HFF&\t(142.5,222.5,\alpha&H00&)\t(6987.5,7067.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}o
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(347,43)\alpha&HFF&\t(146.25,226.25,\alpha&H00&)\t(6983.75,7063.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}n
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(364,43)\alpha&HFF&\t(153.75,233.75,\alpha&H00&)\t(6976.25,7056.25,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}a
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(381,43)\alpha&HFF&\t(161.25,241.25,\alpha&H00&)\t(6968.75,7048.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}s
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(391,43)\alpha&HFF&\t(165,245,\alpha&H00&)\t(6965,7045,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}e
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(401,43)\alpha&HFF&\t(168.75,248.75,\alpha&H00&)\t(6961.25,7041.25,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}a
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(412,43)\alpha&HFF&\t(172.5,252.5,\alpha&H00&)\t(6957.5,7037.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}r
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(422,43)\alpha&HFF&\t(176.25,256.25,\alpha&H00&)\t(6953.75,7033.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}c
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(433,43)\alpha&HFF&\t(180,260,\alpha&H00&)\t(6950,7030,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}h
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(449,43)\alpha&HFF&\t(187.5,267.5,\alpha&H00&)\t(6942.5,7022.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}f
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(458,43)\alpha&HFF&\t(191.25,271.25,\alpha&H00&)\t(6938.75,7018.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}o
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(468,43)\alpha&HFF&\t(195,275,\alpha&H00&)\t(6935,7015,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}r
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(485,43)\alpha&HFF&\t(202.5,282.5,\alpha&H00&)\t(6927.5,7007.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}a
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(502,43)\alpha&HFF&\t(210,290,\alpha&H00&)\t(6920,7000,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}n
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(514,43)\alpha&HFF&\t(213.75,293.75,\alpha&H00&)\t(6916.25,6996.25,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}e
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(526,43)\alpha&HFF&\t(217.5,297.5,\alpha&H00&)\t(6912.5,6992.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}w
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(548,43)\alpha&HFF&\t(225,305,\alpha&H00&)\t(6905,6985,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}w
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(561,43)\alpha&HFF&\t(228.75,308.75,\alpha&H00&)\t(6901.25,6981.25,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}o
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(571,43)\alpha&HFF&\t(232.5,312.5,\alpha&H00&)\t(6897.5,6977.5,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}r
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(579,43)\alpha&HFF&\t(236.25,316.25,\alpha&H00&)\t(6893.75,6973.75,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}l
+Dialogue: 0,0:22:27.41,0:22:34.62,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(588,43)\alpha&HFF&\t(240,320,\alpha&H00&)\t(6890,6970,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}d
 Dialogue: 0,0:22:34.62,0:22:40.07,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(26,43)\alpha&HFF&\t(5.8536585365854,85.853658536585,\alpha&H00&)\t(5364.1463414634,5444.1463414634,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}A
 Dialogue: 0,0:22:34.62,0:22:40.07,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(46,43)\alpha&HFF&\t(17.560975609756,97.560975609756,\alpha&H00&)\t(5352.4390243902,5432.4390243902,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}w
 Dialogue: 0,0:22:34.62,0:22:40.07,justflyaway-eng,,0,0,0,fx,{\r\an5\pos(59,43)\alpha&HFF&\t(23.414634146341,103.41463414634,\alpha&H00&)\t(5346.5853658537,5426.5853658537,\alpha&HFF&)\1c&HFFFFFF&\blur0.5\bord1)\k0}o
